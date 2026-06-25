@@ -1,0 +1,40 @@
+[project]
+name = "hex-intern-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+     "langchain>=0.3.0",
+     "langchain-core>=1.0.0",
+     "langchain-google-genai>=4.2.2",
+     "langchain-groq>=0.3.0",
+     "python-dotenv>=1.2.2",
+     "streamlit>=1.57.0",
+     "ipykernel>=7.2.0",
+     "notebook>=7.5.6",
+     "onnxruntime<=1.23.2",
+     "langchain-community>=0.4.2",
+     "pypdf>=6.13.2",
+     "langchain-huggingface>=1.2.2",
+     "langchain-chroma>=1.1.0",
+     "chromadb>=1.5.9",
+     "pydantic>=2.13.4",
+     "sentence-transformers>=5.5.1",
+     "beautifulsoup4>=4.15.0",
+     "unstructured>=0.23.1",
+     "markdown>=3.10.2",
+     "google-generativeai>=0.8.6",
+     "faiss-cpu>=1.14.3",
+     "fastapi[standard]>=0.137.1",
+     "langgraph>=1.2.5",
+     "pymupdf>=1.27.2.3",
+     "tiktoken>=0.13.0",
+     "langchain-experimental>=0.4.2",
+     "spacy>=3.8.14",
+     "ddgs>=9.14.4",
+     "ipywidgets>=8.1.8",
+     "groq>=0.37.1",
+     "pdfplumber>=0.11.10",
+     "crewai>=0.193.2",
+]

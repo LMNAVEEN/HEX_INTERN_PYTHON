@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+.ipynb_checkpoints/
+
+# Generated vector stores and databases
+data/vector_stores/
+data/databases/
